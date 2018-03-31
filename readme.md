@@ -1,3 +1,5 @@
+## this software and schematic has been superceded by [version 4 - available here](https://github.com/nuljon/DIYspotWelder4)
+
 # Yet Another DIY SpotWelder
 created in June of 2016 by Jon Nuljon & Norman Olds Jr.
 
